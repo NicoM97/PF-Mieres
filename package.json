@@ -1,0 +1,25 @@
+{
+  "name": "repo1",
+  "version": "1.0.0",
+  "description": "Mi primer sitio web corregido!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch scss/main.scss  CSS/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoM97/repo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoM97/repo1/issues"
+  },
+  "homepage": "https://github.com/NicoM97/repo1#readme",
+  "dependencies": {
+    "sass": "^1.58.0"
+  },
+  "devDependencies": {}
+}
