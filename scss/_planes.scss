@@ -1,6 +1,30 @@
-$mainColor:#a03d0c;
-$textMd: 20px;
-$textBold: 600px;
+.videogym{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 
 
+.rutinaT{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.card{
+    margin: 25px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: all 0.8s;
+}
+.card-body{
+    background-color: #516281;
+}
 
